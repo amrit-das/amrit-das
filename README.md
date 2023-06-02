@@ -20,6 +20,6 @@ I'm excited to connect with you and discuss anything related to AI, Machine Lear
 
 - Portfolio Website: https://amrit.website
 - Email: amritdas1998@gmail.com
-- LinkedIn: linkedin.com/in/amrit-das/
+- LinkedIn: https://linkedin.com/in/amrit-das/
 
 Thank you for visiting my GitHub profile! Enjoy exploring the projects, learning, and let's create something amazing together. 😄🚀
